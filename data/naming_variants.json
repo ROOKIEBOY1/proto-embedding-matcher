@@ -1,0 +1,16 @@
+{
+  "contract": "In these two synthetic schemas only: HIGH and PLUS both mean strong edge enhancement.",
+  "schemas": [
+    "enum SharpnessType { SHARPNESS_LOW=0; SHARPNESS_MEDIUM=1; SHARPNESS_HIGH=2; }",
+    "enum ImageAcutanceType { IMAGE_ACUTANCE_MINUS=0; IMAGE_ACUTANCE_NORMAL=1; IMAGE_ACUTANCE_PLUS=2; }"
+  ],
+  "queries": [
+    "Sharpness: High",
+    "Sharpness: strong edge enhancement",
+    "Image acutance: increased edge definition"
+  ],
+  "expected": [
+    "SHARPNESS_HIGH",
+    "IMAGE_ACUTANCE_PLUS"
+  ]
+}

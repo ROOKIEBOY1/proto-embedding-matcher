@@ -1,0 +1,23 @@
+# Install PyTorch separately using the CPU or CUDA index documented in README.
+sentence-transformers==3.4.1
+transformers==4.48.3
+huggingface-hub==0.28.1
+numpy==2.2.2
+psutil==6.1.1
+scikit-learn==1.6.1
+scipy==1.15.1
+pillow==11.1.0
+packaging==24.2
+regex==2024.11.6
+safetensors==0.5.2
+tokenizers==0.21.0
+tqdm==4.67.1
+pyyaml==6.0.2
+requests==2.32.3
+filelock==3.17.0
+fsspec==2024.12.0
+typing_extensions==4.12.2
+sympy==1.13.1
+networkx==3.4.2
+jinja2==3.1.5
+setuptools==75.8.0

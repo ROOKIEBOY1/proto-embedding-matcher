@@ -1,0 +1,32 @@
+{
+  "A/global": {
+    "threshold": 0.8449259996414185,
+    "dev_n": 112,
+    "objective": "balanced known acceptance + unknown rejection; tie: higher threshold"
+  },
+  "A/hierarchical": {
+    "threshold": 0.8449259996414185,
+    "dev_n": 112,
+    "objective": "balanced known acceptance + unknown rejection; tie: higher threshold"
+  },
+  "B/global": {
+    "threshold": 0.8614535629749298,
+    "dev_n": 112,
+    "objective": "balanced known acceptance + unknown rejection; tie: higher threshold"
+  },
+  "B/hierarchical": {
+    "threshold": 0.8614535629749298,
+    "dev_n": 112,
+    "objective": "balanced known acceptance + unknown rejection; tie: higher threshold"
+  },
+  "C/global": {
+    "threshold": 0.8764874935150146,
+    "dev_n": 112,
+    "objective": "balanced known acceptance + unknown rejection; tie: higher threshold"
+  },
+  "C/hierarchical": {
+    "threshold": 0.8764874935150146,
+    "dev_n": 112,
+    "objective": "balanced known acceptance + unknown rejection; tie: higher threshold"
+  }
+}

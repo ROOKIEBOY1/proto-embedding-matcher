@@ -1,0 +1,30 @@
+.venv/
+.cache/
+downloads/
+models/
+__pycache__/
+
+# Local runs and host-specific metadata
+results/
+results*.csv
+model_api.json
+model_manifest.json
+DEPLOYMENT_LOG.md
+docs/
+
+# Local credentials, settings and editor state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.codex/
+.agents/
+.idea/
+.vscode/
+*.log
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
